@@ -38,10 +38,13 @@
 </div><br/>
 
 
-<div style="display: flex; align-items: center; justify-content: flex-start; margin: 20px 0 10px 0;">
-  <img src="https://cdn-icons-png.flaticon.com/256/5300/5300598.png" width="25" style="margin-right: 8px;" />
-  <span style="font-size: 18px;">Contact Me</span>
-</div>
+<table>
+  <tr>
+    <td><img src="https://cdn-icons-png.flaticon.com/256/5300/5300598.png" width="25" /></td>
+    <td style="padding-left: 8px; font-size: 18px;">Contact Me</td>
+  </tr>
+</table>
+<br/>
   <a href="mailto:mukhtarrahimi110@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a> 
