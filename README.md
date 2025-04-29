@@ -35,10 +35,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhtarrahimi&layout=compact&theme=github_dark" height="180px"/> 
   <br />
   
-</div>
+</div><br/>
 
 
-<img src="https://cdn-icons-png.flaticon.com/256/5300/5300598.png" width="25" style="margin-right: 8px;"/> 
+<img src="https://cdn-icons-png.flaticon.com/256/5300/5300598.png" width="20"/> 
   Contact Me
   <a href="mailto:mukhtarrahimi110@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
